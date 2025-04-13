@@ -5,7 +5,7 @@ import shutil
 
 main = customtkinter.CTk()
 main.geometry("600x500")
-main.title("DSKMAKR")
+main.title("DSKMKR")
 icon = tkinter.PhotoImage(file="DSKMKR.png")  # Make sure this is 48x48 or smaller
 main.iconphoto(True, icon)
 customtkinter.set_default_color_theme("white.json")
