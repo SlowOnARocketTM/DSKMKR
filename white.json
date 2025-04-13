@@ -1,0 +1,76 @@
+{
+    "CTk": {
+      "fg_color": ["#F9F9F9", "#212121"],
+      "bg_color": ["#F2F2F2", "#1E1E1E"],
+      "top_fg_color": ["#E5E5E5", "#2B2B2B"],
+      "border_color": ["#CCCCCC", "#2E2E2E"],
+      "text_color": ["#000000", "#FFFFFF"],
+      "highlight_color": ["#1A73E8", "#1A73E8"]
+    },
+    "CTkFont": {
+      "family": "Arial",
+      "size": 13,
+      "weight": "normal"
+    },
+    "CTkLabel": {
+      "fg_color": ["transparent", "transparent"],
+      "text_color": ["#000000", "#FFFFFF"],
+      "corner_radius": 15,
+      "border_width": 1,
+      "border_color": ["#CCCCCC", "#444444"]
+    },
+    "CTkButton": {
+      "fg_color": ["#FFFFFF", "#FFFFFF"],
+      "hover_color": ["#EAEAEA", "#EAEAEA"],
+      "text_color": ["#000000", "#000000"],
+      "border_color": ["#CCCCCC", "#444444"],
+      "border_width": 2,
+      "corner_radius": 15,
+      "text_color_disabled": ["#AAAAAA", "#555555"] 
+    },
+    "CTkEntry": {
+      "fg_color": ["#FFFFFF", "#2E2E2E"],
+      "border_color": ["#CCCCCC", "#444444"],
+      "text_color": ["#000000", "#FFFFFF"],
+      "placeholder_text_color": ["#888888", "#BBBBBB"],
+      "border_width": 2,
+      "corner_radius": 15
+    },
+    "CTkCheckBox": {
+      "border_color": ["#999999", "#AAAAAA"],
+      "fg_color": ["#FFFFFF", "#FFFFFF"],
+      "hover_color": ["#DDDDDD", "#444444"],
+      "checkmark_color": ["#000000", "#FFFFFF"],
+      "border_width": 1,
+      "corner_radius": 15
+    },
+    "CTkSlider": {
+      "fg_color": ["#FFFFFF", "#2E2E2E"],
+      "border_color": ["#CCCCCC", "#444444"],
+      "slider_color": ["#1A73E8", "#1A73E8"],
+      "slider_width": 10,
+      "border_width": 1,
+      "corner_radius": 15
+    },
+    "CTkProgressBar": {
+      "fg_color": ["#1A73E8", "#1A73E8"],
+      "border_color": ["#CCCCCC", "#444444"],
+      "border_width": 1,
+      "corner_radius": 15
+    },
+    "CTkSwitch": {
+      "fg_color": ["#FFFFFF", "#FFFFFF"],
+      "text_color": ["#000000", "#FFFFFF"],
+      "border_color": ["#CCCCCC", "#444444"],
+      "border_width": 1,
+      "checkmark_color": ["#1A73E8", "#1A73E8"],
+      "slider_color": ["#1A73E8", "#1A73E8"],
+      "corner_radius": 15
+    },
+        "CTkToplevel": {
+            "fg_color": "#2E2E2E",
+            "border_width": 2,
+            "corner_radius": 10
+        }
+  }
+  
