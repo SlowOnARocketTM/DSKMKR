@@ -2,16 +2,14 @@
 DSKMKR is just a project that creates a shortcut for those annoying .AppImage Files you want to use often.
 
 
-### Installing Dependencies
-```bash
-pip install -r requirements.txt
-```
-This Will Install All The Neccesary Dependencies for DSKMKR to function properly
-### Running DSKMRK
-```bash
-python3 main.py
-```
-this runs the file it should open a gui
+### Installing DSKMKR
+```chmod +x install.sh```
+then run
+```./install.sh```
+####to reopen dskmkr later run the following commands:
+```chmod +x run.sh```
+then run
+```./run.sh```
 ### Usage
 Fill in the 4 boxes with the following information:
 #### Version: Set a Version for the software if you don't know it set it to 1.0.0
