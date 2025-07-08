@@ -6,7 +6,7 @@ DSKMKR is just a project that creates a shortcut for those annoying .AppImage Fi
 ```chmod +x install.sh```
 then run
 ```./install.sh```
-####to reopen dskmkr later run the following commands:
+###to reopen dskmkr later run the following commands:
 ```chmod +x run.sh```
 then run
 ```./run.sh```
